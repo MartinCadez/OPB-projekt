@@ -4,10 +4,10 @@
 [![Docker Compose Compatibility](https://img.shields.io/badge/Docker_Compose-2.0%2B-1ad1b9)](https://docs.docker.com/compose)
 
 <div align="center">
-<h2> Project OPB, data warehouse</h2>
+<h2> ⛁ Project OPB, data warehouse ⛁ </h2>
 </div>
 
-_Project was developed as part of course 'OPB' at the 
+_Project was developed as part of course 'Introduction to databases' at the 
 University of Ljubljana, Faculty of Mathematics and Physics, during the 
 academic year 2024/2025. Implementation demonstrates data warehouse 
 solution with a Dash-framework based dashboard for macroeconomic data visualization 
