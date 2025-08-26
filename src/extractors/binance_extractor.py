@@ -8,11 +8,7 @@ from typing import Optional, List, Dict, Any
 
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.StreamHandler(),
-        logging.FileHandler('binance_extractor.log')
-    ]
+    format="%(asctime)s - %(levelname)s - %(message)s",
 )
 
 logger = logging.getLogger(__name__)
@@ -27,7 +23,7 @@ class BinanceKlineExtractor:
         symbol: str = "BTCUSDT",
         interval: str = "1d",
         limit: int = 500,
-        output_folder: str = "./data",
+        output_folder: str = "./",
     ):
         self.symbol = symbol
         self.interval = interval
@@ -134,13 +130,17 @@ class BinanceKlineExtractor:
 
 
 if __name__ == "__main__":
-    extractor = BinanceKlineExtractor(
-        symbol="BTCUSDT", interval="1d", limit=1000, output_folder="../../data"
-    )
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
 
-    start_time = int(datetime(2000, 1, 1).timestamp() * 1000)
+    for symbol in ["BTCUSDT", "ETCUSDT", "BNBUSDT", "SOLUSDT"]:
+        extractor = BinanceKlineExtractor(
+            symbol=symbol, interval="1d", limit=1000, output_folder=OUTPUT_DIR
+        )
 
-    data = extractor.get_data(start_time=start_time)
+        start_time = int(datetime(2000, 1, 1).timestamp() * 1000)
 
-    if data:
-        extractor.export_data(data)
+        data = extractor.get_data(start_time=start_time)
+
+        if data:
+            extractor.export_data(data)
