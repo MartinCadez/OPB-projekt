@@ -11,7 +11,7 @@ _Project was developed as part of course 'OPB' at the
 University of Ljubljana, Faculty of Mathematics and Physics, during the 
 academic year 2024/2025. Implementation demonstrates data warehouse 
 solution with a Dash-framework based dashboard for macroeconomic data visualization 
-and analysis.
+and analysis._
 
 ## 🛠️ Setup Guide
 
@@ -33,11 +33,6 @@ and analysis.
     pip install uv && 
     uv pip install -r requirements.txt
     ```
->[!NOTE]
-> Current configuration ([`docker-compose.yml`](./docker-compose.yml)) defines
-a service which deploys PostgreSQL 17.5 database container with named volume. 
-This way we have persistent storage, which can be used 
-across container restarts.
     3. 🐳 Deploy Docker Compose Services
     ```bash
     docker compose up -d
