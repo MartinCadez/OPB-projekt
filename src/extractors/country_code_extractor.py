@@ -2,13 +2,13 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
-from src.logging import logger
+from src.utils.logger import logger
 
 
 class CountryCodeExtractor:
     def __init__(self):
         self.url = "https://www.iban.com/country-codes"
-        self.output_file = Path("country_codes.csv")
+        self.output_file = Path("init-db/data/country_codes.csv")
     
     def fetch_html(self):
         logger.info(f"Fetching HTML from {self.url}")

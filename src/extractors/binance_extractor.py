@@ -3,7 +3,7 @@ import csv
 import os
 import requests
 from datetime import datetime
-from src.logging import logger
+from src.utils.logger import logger
 from typing import Optional, List, Dict, Any
 
 

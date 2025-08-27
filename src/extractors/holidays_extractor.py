@@ -3,7 +3,7 @@ import holidays
 from datetime import date
 import os
 from typing import Dict, List
-from src.logging import logger
+from src.utils.logger import logger
 
 
 class HolidayExtractor:
