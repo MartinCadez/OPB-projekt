@@ -1,17 +1,10 @@
-import requests
 import time
 import csv
 import os
-import logging
+import requests
 from datetime import datetime
+from src.logging import logger
 from typing import Optional, List, Dict, Any
-
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s",
-)
-
-logger = logging.getLogger(__name__)
 
 
 class BinanceKlineExtractor:
@@ -133,7 +126,7 @@ if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
 
-    for symbol in ["BTCUSDT", "ETCUSDT", "BNBUSDT", "SOLUSDT"]:
+    for symbol in ["BTCUSDT", "ETCUSDT", "XRPUSDT","BNBUSDT", "SOLUSDT"]:
         extractor = BinanceKlineExtractor(
             symbol=symbol, interval="1d", limit=1000, output_folder=OUTPUT_DIR
         )

@@ -2,6 +2,8 @@ import csv
 import requests
 from bs4 import BeautifulSoup
 from pathlib import Path
+from src.logging import logger
+
 
 class CountryCodeExtractor:
     def __init__(self):
@@ -9,11 +11,13 @@ class CountryCodeExtractor:
         self.output_file = Path("country_codes.csv")
     
     def fetch_html(self):
+        logger.info(f"Fetching HTML from {self.url}")
         response = requests.get(self.url)
         response.raise_for_status()
         return response.text
     
     def extract_table_data(self, html):
+        logger.debug("Parsing HTML to extract table data")
         soup = BeautifulSoup(html, 'html.parser')
         table = soup.find('table')
         
@@ -21,6 +25,7 @@ class CountryCodeExtractor:
         header_row = table.find('thead').find('tr') if table.find('thead') else table.find('tr')
         if header_row:
             headers = [th.get_text(strip=True) for th in header_row.find_all('th')]
+            logger.debug(f"Extracted headers: {headers}")
         
         rows = []
         table_body = table.find('tbody') if table.find('tbody') else table
@@ -30,7 +35,6 @@ class CountryCodeExtractor:
             cells = [td.get_text(strip=True) for td in row.find_all('td')]
             if cells and len(cells) == len(headers):
                 rows.append(dict(zip(headers, cells)))
-        
         return rows
     
     def save_to_csv(self, data):
@@ -38,13 +42,17 @@ class CountryCodeExtractor:
             writer = csv.DictWriter(csvfile, fieldnames=data[0].keys())
             writer.writeheader()
             writer.writerows(data)
-        print(f"CSV file saved: {self.output_file}")
+        logger.info(f"CSV file saved: {self.output_file}")
     
     def extract(self):
-        html = self.fetch_html()
-        table_data = self.extract_table_data(html)
-        self.save_to_csv(table_data)
-        print("Extraction completed successfully")
+        logger.info("Starting country code extraction")
+        try:
+            html = self.fetch_html()
+            table_data = self.extract_table_data(html)
+            self.save_to_csv(table_data)
+        except Exception as e:
+            logger.error(f"Extraction failed: {e}")
+            raise
 
 if __name__ == "__main__":
     extractor = CountryCodeExtractor()
