@@ -6,8 +6,8 @@ CREATE TABLE IF NOT EXISTS dim_date (
 CREATE TABLE IF NOT EXISTS dim_country (
     country_id INT PRIMARY KEY,
     country_code VARCHAR(20) NOT NULL UNIQUE
-    country_code VARCHAR(20) NOT NULL UNIQUE
-    country_code VARCHAR(20) NOT NULL UNIQUE
+    alpha2_code VARCHAR(20) NOT NULL UNIQUE
+    alpha3_code VARCHAR(20) NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS dim_holiday (
