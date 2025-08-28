@@ -1,2 +1,8 @@
+dash
+dash-bootstrap-components
+dash_html_components
+psycopg2-binary
+numpy
+requests
 pandas
 holidays
