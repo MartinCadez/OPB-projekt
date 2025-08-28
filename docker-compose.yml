@@ -15,9 +15,24 @@ services:
       - postgres_network
     restart: always
 
+  dash_app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dash_app
+    ports:
+      - "8050:8050"
+    networks:
+      - postgres_network
+    restart: always
+    volumes:
+    - ./src:/code/src
+    depends_on:
+      - postgres
+
 volumes: 
   postgres_data:
-    name: postgres_data
+    name: postgres_data2
 
 networks:
   postgres_network:
