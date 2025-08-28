@@ -2,7 +2,12 @@ import csv
 import os
 from datetime import datetime, timedelta
 from typing import Union
+import pandas as pd
 from src.utils.logger import logger
+from src.extractors.country_code_extractor import CountryCodeExtractor
+from src.extractors.holidays_extractor import HolidayExtractor
+# from src.extractors.binance_extractor import BinanceKlineExtractor
+
 
 def get_dim_date(
     start_date: Union[str, datetime],
@@ -24,15 +29,50 @@ def get_dim_date(
             writer.writerow([unix_ts, current_date.date().isoformat()])
             current_date += timedelta(days=1)
 
-    logger.info("CSV file created at: {outut_path}")
+    logger.info(f"CSV file created at: {output_path}")
+
+
+def get_dim_country(output_path: str = "dim_country.csv"):
+    return CountryCodeExtractor().get_df().to_csv(output_path, index=False)
+
+
+def get_dim_holiday(output_path: str = "dim_holiday.csv"):
+    return (
+        HolidayExtractor()
+        .get_df()
+        .assign(
+            date_id=lambda df: pd.to_datetime(df["date"]).apply(
+                lambda d: int(d.timestamp())
+            )
+        )
+        .merge(
+            CountryCodeExtractor().get_df(),
+            left_on="country_code",
+            right_on="alpha2_code",
+            how="left",
+        )
+        .dropna(subset=["country_id"])
+        .assign(
+            holiday_id=lambda df: df.index + 1,
+            country_id=lambda df: df["country_id"].astype(int),
+            holiday_name=lambda df: df["name"],
+        )
+        .reindex(columns=["holiday_id", "date_id", "country_id", "holiday_name"])
+        .reset_index(drop=True)
+        .to_csv(output_path, index=False)
+    )
+
 
 if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
 
     get_dim_date(
-            start_date="2015-01-01",
-            end_date="2025-12-31",
-            output_path=os.path.join(OUTPUT_DIR, "dim_date.csv")
+        start_date="2015-01-01",
+        end_date="2025-12-31",
+        output_path=os.path.join(OUTPUT_DIR, "dim_date.csv"),
     )
 
+    get_dim_country(output_path=os.path.join(OUTPUT_DIR, "dim_country.csv"))
+
+    get_dim_holiday(output_path=os.path.join(OUTPUT_DIR, "dim_holiday.csv"))
