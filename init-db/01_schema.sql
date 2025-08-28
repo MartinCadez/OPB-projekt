@@ -14,7 +14,7 @@ CREATE TABLE IF NOT EXISTS dim_holiday (
     holiday_id INT PRIMARY KEY,
     date_id INT REFERENCES dim_date(date_id),
     country_id INT REFERENCES dim_country(country_id),
-    holiday_name TEXT NOT NULL
+    name TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS dim_symbol (
