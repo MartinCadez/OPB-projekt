@@ -2,6 +2,7 @@ import time
 import csv
 import os
 import requests
+import pandas as pd
 from datetime import datetime
 from src.utils.logger import logger
 from typing import Optional, List, Dict, Any
@@ -88,7 +89,16 @@ class BinanceKlineExtractor:
 
         return data
 
-    def export_data(
+    def get_df(
+        self, start_time: Optional[int] = None, end_time: Optional[int] = None
+    ) -> pd.DataFrame:
+        data = self.get_data(start_time=start_time, end_time=end_time)
+        if not data:
+            logger.warning("No data fetched, returning empty DataFrame")
+            return pd.DataFrame()
+        return pd.DataFrame(data)
+
+    def export_csv(
         self, data: List[Dict[str, Any]], filename: Optional[str] = None
     ) -> str:
         if not data:
@@ -126,7 +136,7 @@ if __name__ == "__main__":
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
 
-    for symbol in ["BTCUSDT", "ETCUSDT", "XRPUSDT","BNBUSDT", "SOLUSDT"]:
+    for symbol in ["BTCUSDT", "ETCUSDT", "XRPUSDT", "BNBUSDT", "SOLUSDT"]:
         extractor = BinanceKlineExtractor(
             symbol=symbol, interval="1d", limit=1000, output_folder=OUTPUT_DIR
         )
@@ -136,4 +146,5 @@ if __name__ == "__main__":
         data = extractor.get_data(start_time=start_time)
 
         if data:
-            extractor.export_data(data)
+            extractor.export_csv(data)
+            print(extractor.get_df())
