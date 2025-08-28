@@ -32,7 +32,7 @@ services:
 
 volumes: 
   postgres_data:
-    name: postgres_data2
+    name: postgres_data
 
 networks:
   postgres_network:
