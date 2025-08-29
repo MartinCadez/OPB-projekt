@@ -4,8 +4,12 @@ from datetime import datetime, timedelta
 from typing import Union
 import pandas as pd
 from src.utils.logger import logger
-from src.extractors.country_code_extractor import CountryCodeExtractor
-from src.extractors.holidays_extractor import HolidayExtractor
+from src.pipeline.extract.country_code_extractor import CountryCodeExtractor
+from src.pipeline.extract.holidays_extractor import HolidayExtractor
+from src.pipeline.constants import (
+    BASE_DIR,
+    OUTPUT_DIR,
+)
 
 
 def get_dim_date(

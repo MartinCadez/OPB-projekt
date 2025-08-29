@@ -5,6 +5,9 @@ import os
 import pandas as pd
 from typing import Dict, List
 from src.utils.logger import logger
+from src.pipeline.constants import (
+    OUTPUT_DIR,
+)
 
 
 class HolidayExtractor:
@@ -71,9 +74,6 @@ class HolidayExtractor:
 
 
 if __name__ == "__main__":
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
-
     extractor: HolidayExtractor = HolidayExtractor(
         years=range(2017, 2025), output_dir=OUTPUT_DIR, output_file="holidays.csv"
     )

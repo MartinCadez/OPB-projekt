@@ -6,6 +6,9 @@ import pandas as pd
 from datetime import datetime
 from src.utils.logger import logger
 from typing import Optional, List, Dict, Any
+from src.pipeline.constants import (
+    OUTPUT_DIR,
+)
 
 
 class BinanceKlineExtractor:
@@ -133,9 +136,6 @@ class BinanceKlineExtractor:
 
 
 if __name__ == "__main__":
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    OUTPUT_DIR = os.path.join(BASE_DIR, "..", "..", "init-db", "data")
-
     for symbol in ["BTCUSDT", "ETCUSDT", "XRPUSDT", "BNBUSDT", "SOLUSDT"]:
         extractor = BinanceKlineExtractor(
             symbol=symbol, interval="1d", limit=1000, output_folder=OUTPUT_DIR
