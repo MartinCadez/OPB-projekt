@@ -5,8 +5,8 @@ CREATE TABLE IF NOT EXISTS dim_date (
 
 CREATE TABLE IF NOT EXISTS dim_country (
     country_id INT PRIMARY KEY,
-    country_code VARCHAR(20) NOT NULL UNIQUE
-    alpha2_code VARCHAR(20) NOT NULL UNIQUE
+    country_code VARCHAR(20) NOT NULL UNIQUE,
+    alpha2_code VARCHAR(20) NOT NULL UNIQUE,
     alpha3_code VARCHAR(20) NOT NULL UNIQUE
 );
 
@@ -24,17 +24,22 @@ CREATE TABLE IF NOT EXISTS dim_symbol (
 
 CREATE TABLE IF NOT EXISTS dim_price_type (
     price_type_id INT PRIMARY KEY,
-    price_type_name VARCHAR(10) NOT NULL UNIQUE
+    type_name VARCHAR(10) NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS dim_volume_type (
     volume_type_id INT PRIMARY KEY,
-    volume_type_name VARCHAR(30) NOT NULL UNIQUE
+    type_name VARCHAR(30) NOT NULL UNIQUE
+);
+
+CREATE TABLE IF NOT EXIST dim_timeframe (
+    timeframe_id INT PRIMARY KEY,
+    name VARCHAR(20) NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS dim_exchange (
     exchange_id INT PRIMARY KEY,
-    exchange_name VARCHAR(50) NOT NULL UNIQUE,
+    name VARCHAR(50) NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS bridge_trade_context (
