@@ -1,0 +1,54 @@
+cargo_type_id,cargo_name,cargo_detailed_name,hazardous
+1,IRON ORE,Iron Ore Bulk,False
+2,KONTS IMO,Container IMO,False
+3,ZIVE ZIVALI,Live Animals,False
+4,ZELEZOVA RUDA,Iron Ore,False
+5,VOZILA,Vehicles,False
+6,JEKLENI KOLUTI,Steel Coils,False
+7,ULSD,Ultra Low Sulfur Diesel,True
+8,KONT,Container Generic,False
+9,PA,Palm Oil,True
+10,FERTILIZER,Fertilizer,True
+11,POTNIKI,Passengers,False
+12,KONTEJNERJI,Containers,False
+13,SOYA,Soybeans,False
+14,METANOL,Methanol,True
+15,G.T. V KONT.,General Transport in Container,False
+16,LES,Wood Logs,False
+17,WPA,Wood Products Assorted,False
+18,KONTS,Containers,False
+19,LES V VEZIH,Wood Bundles,False
+20,GASOLINE,Gasoline,True
+21,VOZILA + RORO,Vehicles Ro-Ro,False
+22,PLOCEVINA V KOLUTIH,Sheet Steel Coils,False
+23,AVTOMOBILI,Cars,False
+24,ULSD 10 PPM,Ultra Low Sulfur Diesel 10ppm,True
+25,KRETNICE,Switches/Valves,False
+26,VISIT,Generic Visit Cargo,False
+27,VOZILA+MAFI TRAILER,Vehicles + Trailers,False
+28,SOL,Salt,False
+29,JET A1,Jet Fuel,True
+30,METHANOL,Methanol,True
+31,KONT 20',20ft Container,False
+32,NIL,None,False
+33,SBM,Single Buoy Mooring,False
+34,GT V KONTEJNERJIH,General Transport in Containers,False
+35,GAS OIL,Gas Oil,True
+36,AVTI MER.,Cars Measurement,False
+37,UNLEADED GASOLINE,Unleaded Gasoline,True
+38,BORAX ETIBOR - 48,Borax ETIBOR,True
+39,FOSFAT,Phosphate,False
+40,COILS,Steel Coils,False
+41,GENERALNI TOVOR,General Cargo,False
+42,ODPADNO ZELEZO,Scrap Metal,False
+43,PROJECT CARGO,Project Cargo,False
+44,RABLJENA VOZILA,Used Vehicles,False
+45,JET,Jet Fuel,True
+46,PROJEKTNI TOVOR,Project Cargo,False
+47,FOSFATI,Phosphates,False
+48,BATERIJE,Batteries,True
+49,MOP,Misc Oil Products,True
+50,COAL,Coal,False
+51,SALT,Salt,False
+52,BAUXITE,Bauxite,False
+53,UREA,Urea,True

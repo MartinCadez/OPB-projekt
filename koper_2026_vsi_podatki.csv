@@ -1,0 +1,290 @@
+ticanje,ladja,datum,dolzina,ugrez,teza_tovora,vrsta_tovora,bt,agent,ladjar
+77330,AOM FEDERICA,01.01.2026,IRON ORE,Ticanje: 77330 (Odvezana),Ladja: AMFC,"Datum: 01.01.2026, 00:00","Dolžina Ladje: 229,00","Ugrez: 14,47",Teža tovora (t): 77.238
+77355,CARLOW,01.01.2026,KONTS IMO,Ticanje: 77355 (Odvezana),Ladja: CRLW,"Datum: 01.01.2026, 00:00","Dolžina Ladje: 89,73","Ugrez: 5,72",Teža tovora (t): 41
+77358,JULIA L.S.,01.01.2026,ŽIVE ŽIVALI,Ticanje: 77358 (Odvezana),Ladja: JLLS,"Datum: 01.01.2026, 00:00","Dolžina Ladje: 89,00","Ugrez: 6,00",Teža tovora (t): 1.000
+77218,LUCY OLDENDORFF,02.01.2026,ZELEZOVA RUDA,Ticanje: 77218 (Odvezana),Ladja: LYOF,"Datum: 02.01.2026, 00:00","Dolžina Ladje: 291,98","Ugrez: 18,23",Teža tovora (t): 165.000
+77373,POLARIS PRINCESS,02.01.2026,VOZILA,Ticanje: 77373 (Odvezana),Ladja: PSPS,"Datum: 02.01.2026, 00:00","Dolžina Ladje: 117,00","Ugrez: 5,95",Teža tovora (t): 700
+77351,YANGTZE JEWEL,02.01.2026,JEKLENI KOLUTI,Ticanje: 77351 (Odvezana),Ladja: YGTJ,"Datum: 02.01.2026, 00:00","Dolžina Ladje: 199,90","Ugrez: 13,30",Teža tovora (t): 11.600
+77385,SEA PATRIS,03.01.2026,VOZILA,Ticanje: 77385 (Odvezana),Ladja: SEPS,"Datum: 03.01.2026, 00:00","Dolžina Ladje: 176,72","Ugrez: 9,02",Teža tovora (t): 1.172
+77371,HENRIETTE MAERSK,03.01.2026,ULSD,Ticanje: 77371 (Odvezana),Ladja: HEMK,"Datum: 03.01.2026, 00:00","Dolžina Ladje: 180,00","Ugrez: 10,22",Teža tovora (t): 30.000
+77326,MSC RITA V,03.01.2026,KONT,Ticanje: 77326 (Odvezana),Ladja: MSRT,"Datum: 03.01.2026, 00:00","Dolžina Ladje: 293,81","Ugrez: 14,50",Teža tovora (t): 1.500
+77328,HAE SHIN,04.01.2026,VOZILA,Ticanje: 77328 (Odvezana),Ladja: HAES,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 195,54","Ugrez: 9,00",Teža tovora (t): 377
+77240,KARRUCA,04.01.2026,PA,Ticanje: 77240 (Odvezana),Ladja: KRRA,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 112,00","Ugrez: 7,35",Teža tovora (t): 1.200
+77383,PRIMUS,04.01.2026,FERTILIZER,Ticanje: 77383 (Odvezana),Ladja: PRMS,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 177,00","Ugrez: 10,02",Teža tovora (t): 12.000
+77184,VIKING SATURN,04.01.2026,POTNIKI,Ticanje: 77184 (Odvezana),Ladja: VGSN,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 228,40","Ugrez: 6,65",Teža tovora (t): 900
+77293,MSC AGATA III,04.01.2026,KONTEJNERJI,Ticanje: 77293 (Stornirana),Ladja: MSAG,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 211,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77342,CM SHEN ZHEN,04.01.2026,VOZILA,Ticanje: 77342 (Odvezana),Ladja: CMSZ,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 219,90","Ugrez: 10,20",Teža tovora (t): 2.327
+77341,THOR MAGNHILD,04.01.2026,SOYA,Ticanje: 77341 (Odvezana),Ladja: THMG,"Datum: 04.01.2026, 00:00","Dolžina Ladje: 189,99","Ugrez: 12,57",Teža tovora (t): 13.599
+77339,SIARGAO,05.01.2026,KONTEJNERJI,Ticanje: 77339 (Odvezana),Ladja: SIAO,"Datum: 05.01.2026, 00:00","Dolžina Ladje: 172,00","Ugrez: 9,70",Teža tovora (t): 5.000
+77344,PVT CLARA,05.01.2026,METANOL,Ticanje: 77344 (Odvezana),Ladja: PVTC,"Datum: 05.01.2026, 00:00","Dolžina Ladje: 147,83","Ugrez: 9,77",Teža tovora (t): 7.000
+77297,NEPTUNE KALLOS,05.01.2026,VOZILA,Ticanje: 77297 (Odvezana),Ladja: NNKS,"Datum: 05.01.2026, 00:00","Dolžina Ladje: 168,06","Ugrez: 9,00",Teža tovora (t): 4.000
+77066,AL MURABBA,05.01.2026,G.T. V KONT.,Ticanje: 77066 (Odvezana),Ladja: ALUA,"Datum: 05.01.2026, 00:00","Dolžina Ladje: 368,52","Ugrez: 15,52",Teža tovora (t): 60.000
+77384,CDRY BLACK,05.01.2026,LES,Ticanje: 77384 (Odvezana),Ladja: CDRB,"Datum: 05.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,06",Teža tovora (t): 6.000
+77359,CHEM ALTAMIRA,06.01.2026,WPA,Ticanje: 77359 (Odvezana),Ladja: CMLM,"Datum: 06.01.2026, 00:00","Dolžina Ladje: 145,00","Ugrez: 9,78",Teža tovora (t): 1.500
+77300,MSC TALIA F,06.01.2026,KONT,Ticanje: 77300 (Odvezana),Ladja: MSTF,"Datum: 06.01.2026, 00:00","Dolžina Ladje: 139,10","Ugrez: 8,80",Teža tovora (t): 1.500
+77397,DALE,07.01.2026,ULSD,Ticanje: 77397 (Odvezana),Ladja: DALD,"Datum: 07.01.2026, 00:00","Dolžina Ladje: 184,30","Ugrez: 11,00",Teža tovora (t): 30.000
+77415,MSC HANNAH,07.01.2026,KONTEJNERJI,Ticanje: 77415 (Stornirana),Ladja: MHNN,"Datum: 07.01.2026, 00:00","Dolžina Ladje: 210,85","Ugrez: 12,02",Teža tovora (t): 2.500
+77329,CHATTANOOGA,07.01.2026,KONTEJNERJI,Ticanje: 77329 (Odvezana),Ladja: CHOO,"Datum: 07.01.2026, 00:00","Dolžina Ladje: 143,17","Ugrez: 8,30",Teža tovora (t): 200
+77389,AYADA,08.01.2026,KONTS,Ticanje: 77389 (Odvezana),Ladja: AYAD,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 111,40","Ugrez: 6,43",Teža tovora (t): 82
+77242,JADRANA,08.01.2026,KONTEJNERJI,Ticanje: 77242 (Odvezana),Ladja: JRNA,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 255,38","Ugrez: 13,00",Teža tovora (t): 9.800
+77312,CMA CGM ADONIS,08.01.2026,KONTEJNERJI,Ticanje: 77312 (Odvezana),Ladja: CCAD,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 366,00","Ugrez: 16,00",Teža tovora (t): 5.000
+77362,NEPTUNE ILIAD,08.01.2026,VOZILA,Ticanje: 77362 (Odvezana),Ladja: NPIL,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77278,MSC CHARLOTTE,08.01.2026,KONTEJNERJI,Ticanje: 77278 (Odvezana),Ladja: MCCS,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.500
+77349,ADMIRAL SUN,08.01.2026,KONTEJNERJI,Ticanje: 77349 (Odvezana),Ladja: ADSU,"Datum: 08.01.2026, 00:00","Dolžina Ladje: 139,10","Ugrez: 8,80",Teža tovora (t): 300
+77400,SWAN,09.01.2026,LES V VEZIH,Ticanje: 77400 (Odvezana),Ladja: SWAX,"Datum: 09.01.2026, 00:00","Dolžina Ladje: 109,80","Ugrez: 5,01",Teža tovora (t): 4.750
+77325,MSC TALIA F,09.01.2026,KONT,Ticanje: 77325 (Stornirana),Ladja: MSTF,"Datum: 09.01.2026, 00:00","Dolžina Ladje: 139,10","Ugrez: 8,80",Teža tovora (t): 1.500
+77281,CMA CGM SAHARA,10.01.2026,KONTEJNERJI,Ticanje: 77281 (Odvezana),Ladja: CCSA,"Datum: 10.01.2026, 00:00","Dolžina Ladje: 195,60","Ugrez: 10,50",Teža tovora (t): 8.000
+77407,YAREN S,10.01.2026,SOYA,Ticanje: 77407 (Odvezana),Ladja: YRNS,"Datum: 10.01.2026, 00:00","Dolžina Ladje: 77,65","Ugrez: 5,05",Teža tovora (t): 1.400
+77206,CONTSHIP ERA,10.01.2026,KONTEJNERJI,Ticanje: 77206 (Odvezana),Ladja: CNTE,"Datum: 10.01.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.000
+77379,MAY B,10.01.2026,KONTEJNERJI,Ticanje: 77379 (Odvezana),Ladja: MAYB,"Datum: 10.01.2026, 00:00","Dolžina Ladje: 78,24","Ugrez: 4,85",Teža tovora (t): 21
+77402,AEGEAS,10.01.2026,ULSD,Ticanje: 77402 (Odvezana),Ladja: AGES,"Datum: 10.01.2026, 00:00","Dolžina Ladje: 182,55","Ugrez: 11,00",Teža tovora (t): 30.000
+77431,KIJAC,11.01.2026,GASOLINE,Ticanje: 77431 (Odvezana),Ladja: KJAC,"Datum: 11.01.2026, 00:00","Dolžina Ladje: 92,86","Ugrez: 5,80",Teža tovora (t): 3.200
+77414,GRAND BENELUX,11.01.2026,VOZILA + RORO,Ticanje: 77414 (Odvezana),Ladja: GBNX,"Datum: 11.01.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,00",Teža tovora (t): 1.000
+77428,MSC JENNY II,11.01.2026,KONTEJNERJI,Ticanje: 77428 (Odvezana),Ladja: MSJY,"Datum: 11.01.2026, 00:00","Dolžina Ladje: 200,23","Ugrez: 12,02",Teža tovora (t): 2.500
+77380,XIN HAI TONG 63,12.01.2026,PLOČEVINA V KOLUTIH,Ticanje: 77380 (Odvezana),Ladja: XH63,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 189,99","Ugrez: 12,80",Teža tovora (t): 17.500
+77376,ANGELITE ACE,12.01.2026,AVTOMOBILI,Ticanje: 77376 (Odvezana),Ladja: ATAE,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 199,93","Ugrez: 10,11",Teža tovora (t): 1.613
+77346,BYD JINAN,12.01.2026,VOZILA,Ticanje: 77346 (Stornirana),Ladja: BYDJ,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 219,90","Ugrez: 10,30",Teža tovora (t): 1.200
+77412,HISTRIA AZURE,12.01.2026,ULSD 10 PPM,Ticanje: 77412 (Odvezana),Ladja: HSAZ,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 179,93","Ugrez: 11,00",Teža tovora (t): 33.000
+77291,MSC POLINA,12.01.2026,KONTEJNERJI,Ticanje: 77291 (Stornirana),Ladja: MSPO,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 208,95","Ugrez: 11,60",Teža tovora (t): 2.500
+77292,MED TRABZON,12.01.2026,KONTEJNERJI,Ticanje: 77292 (Odvezana),Ladja: METN,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 182,03","Ugrez: 11,57",Teža tovora (t): 2.500
+77387,MSC RITA V,12.01.2026,KONT,Ticanje: 77387 (Odvezana),Ladja: MSRT,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 293,81","Ugrez: 14,50",Teža tovora (t): 1.500
+77401,MSC ROSSELLA III,12.01.2026,KONTEJNERJI,Ticanje: 77401 (Odvezana),Ladja: MRLL,"Datum: 12.01.2026, 00:00","Dolžina Ladje: 222,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77317,FOX,13.01.2026,KRETNICE,Ticanje: 77317 (Odvezana),Ladja: FOXX,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 119,95","Ugrez: 6,71",Teža tovora (t): 700
+77347,BG BLUE,13.01.2026,KONTEJNERJI,Ticanje: 77347 (Stornirana),Ladja: BGBL,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 169,95","Ugrez: 9,60",Teža tovora (t): 5.000
+77361,NEPTUNE KEFALONIA,13.01.2026,VOZILA,Ticanje: 77361 (Odvezana),Ladja: NPKF,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77307,PENANG BRIDGE,13.01.2026,KONTEJNERJI,Ticanje: 77307 (Odvezana),Ladja: PGBG,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 171,99","Ugrez: 9,52",Teža tovora (t): 400
+77377,MSC KATALIN II,13.01.2026,KONT,Ticanje: 77377 (Stornirana),Ladja: MKN2,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 9,90",Teža tovora (t): 1.500
+77423,MSC ROSSELLA III,13.01.2026,KONTEJNERJI,Ticanje: 77423 (Stornirana),Ladja: MRLL,"Datum: 13.01.2026, 00:00","Dolžina Ladje: 222,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77313,CMA CGM HERMES,14.01.2026,KONTEJNERJI,Ticanje: 77313 (Odvezana),Ladja: CCHS,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 366,00","Ugrez: 16,00",Teža tovora (t): 50.000
+77456,SEDRATA,14.01.2026,VISIT,Ticanje: 77456 (Stornirana),Ladja: SRTA,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 119,85","Ugrez: 8,45",Teža tovora (t): 1.000
+76881,ADRIAN MAERSK,14.01.2026,KONTEJNERJI,Ticanje: 76881 (Odvezana),Ladja: ARIM,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 350,59","Ugrez: 17,00",Teža tovora (t): 30.000
+77447,ASTURIAS,14.01.2026,VOZILA,Ticanje: 77447 (Odvezana),Ladja: ASUA,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 167,25","Ugrez: 8,60",Teža tovora (t): 1.300
+77422,MANON,14.01.2026,VOZILA+MAFI TRAILER,Ticanje: 77422 (Odvezana),Ladja: MNON,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 227,90","Ugrez: 11,02",Teža tovora (t): 2.700
+77345,MSC OLGA F,14.01.2026,KONTEJNERJI,Ticanje: 77345 (Odvezana),Ladja: MOLF,"Datum: 14.01.2026, 00:00","Dolžina Ladje: 147,90","Ugrez: 8,50",Teža tovora (t): 2.500
+77282,CMA CGM FORT STE MARIE,15.01.2026,KONTEJNERJI,Ticanje: 77282 (Odvezana),Ladja: CFSM,"Datum: 15.01.2026, 00:00","Dolžina Ladje: 197,20","Ugrez: 11,02",Teža tovora (t): 8.000
+77434,AV,15.01.2026,SOL,Ticanje: 77434 (Odvezana),Ladja: AVXX,"Datum: 15.01.2026, 00:00","Dolžina Ladje: 99,86","Ugrez: 5,98",Teža tovora (t): 5.300
+77369,MARLA BULL,15.01.2026,KONTEJNERJI,Ticanje: 77369 (Odvezana),Ladja: MLBL,"Datum: 15.01.2026, 00:00","Dolžina Ladje: 171,98","Ugrez: 9,50",Teža tovora (t): 2.000
+77442,VALDERICE,15.01.2026,JET A1,Ticanje: 77442 (Odvezana),Ladja: VACE,"Datum: 15.01.2026, 00:00","Dolžina Ladje: 184,33","Ugrez: 11,51",Teža tovora (t): 19.074
+77421,OM SHANGHAI,15.01.2026,METHANOL,Ticanje: 77421 (Odvezana),Ladja: OMSG,"Datum: 15.01.2026, 00:00","Dolžina Ladje: 144,09","Ugrez: 9,93",Teža tovora (t): 11.812
+77375,HELEN H,16.01.2026,SOL,Ticanje: 77375 (Odvezana),Ladja: HLNH,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 100,53","Ugrez: 6,47",Teža tovora (t): 5.300
+77416,GRANDE SPAGNA,16.01.2026,VOZILA + RORO,Ticanje: 77416 (Odvezana),Ladja: GRES,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,77",Teža tovora (t): 1.000
+77398,NEPTUNE ITHAKI,16.01.2026,VOZILA,Ticanje: 77398 (Odvezana),Ladja: NPIT,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77386,XIA MEN ZE SHUN,16.01.2026,KONT 20',Ticanje: 77386 (Odvezana),Ladja: XMZS,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 179,50","Ugrez: 10,20",Teža tovora (t): 2
+77378,MSC KATALIN II,16.01.2026,KONT,Ticanje: 77378 (Stornirana),Ladja: MKN2,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 9,90",Teža tovora (t): 1.500
+77468,HS HERACLES A-472,16.01.2026,NIL,Ticanje: 77468 (Odvezana),Ladja: HSHE,"Datum: 16.01.2026, 00:00","Dolžina Ladje: 84,00","Ugrez: 4,60",Teža tovora (t): 1
+77310,EVER CHART,17.01.2026,KONTEJNERJI,Ticanje: 77310 (Odvezana),Ladja: CRTT,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 172,00","Ugrez: 8,50",Teža tovora (t): 10.000
+77419,KLEDES MARY,17.01.2026,SBM,Ticanje: 77419 (Odvezana),Ladja: KSMY,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 81,70","Ugrez: 4,45",Teža tovora (t): 500
+77403,BYD JINAN,17.01.2026,VOZILA,Ticanje: 77403 (Odvezana),Ladja: BYDJ,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 219,90","Ugrez: 10,30",Teža tovora (t): 1.471
+77450,KASSEL,17.01.2026,KONTS,Ticanje: 77450 (Odvezana),Ladja: KSSL,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 99,90","Ugrez: 6,35",Teža tovora (t): 47
+77343,MSC HANNAH,17.01.2026,KONTEJNERJI,Ticanje: 77343 (Odvezana),Ladja: MHNN,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 210,85","Ugrez: 12,02",Teža tovora (t): 2.500
+77390,MED AYDIN,17.01.2026,KONTEJNERJI,Ticanje: 77390 (Stornirana),Ladja: MDAN,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 195,71","Ugrez: 11,50",Teža tovora (t): 2.500
+77440,MSC MASHA 3,17.01.2026,KONTEJNERJI,Ticanje: 77440 (Odvezana),Ladja: MCMS,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 183,63","Ugrez: 11,56",Teža tovora (t): 2.500
+77445,MPP CLEO,17.01.2026,GT V KONTEJNERJIH,Ticanje: 77445 (Odvezana),Ladja: MPPC,"Datum: 17.01.2026, 00:00","Dolžina Ladje: 100,71","Ugrez: 5,62",Teža tovora (t): 142
+77435,NEPTUNE AVRA,18.01.2026,VOZILA,Ticanje: 77435 (Odvezana),Ladja: NEPV,"Datum: 18.01.2026, 00:00","Dolžina Ladje: 155,02","Ugrez: 6,82",Teža tovora (t): 2.000
+77476,SEPEN,18.01.2026,GASOLINE,Ticanje: 77476 (Odvezana),Ladja: SPEN,"Datum: 18.01.2026, 00:00","Dolžina Ladje: 92,86","Ugrez: 5,70",Teža tovora (t): 3.000
+77388,MSC RITA V,18.01.2026,KONT,Ticanje: 77388 (Odvezana),Ladja: MSRT,"Datum: 18.01.2026, 00:00","Dolžina Ladje: 293,81","Ugrez: 14,50",Teža tovora (t): 1.500
+77424,MICHIGAN,18.01.2026,KONTEJNERJI,Ticanje: 77424 (Stornirana),Ladja: MCGN,"Datum: 18.01.2026, 00:00","Dolžina Ladje: 166,15","Ugrez: 9,50",Teža tovora (t): 2.500
+77360,UAFL RACER,19.01.2026,KONTEJNERJI,Ticanje: 77360 (Odvezana),Ladja: UARR,"Datum: 19.01.2026, 00:00","Dolžina Ladje: 175,54","Ugrez: 10,90",Teža tovora (t): 5.000
+77246,ROYAL I,19.01.2026,KONTEJNERJI,Ticanje: 77246 (Odvezana),Ladja: RYLI,"Datum: 19.01.2026, 00:00","Dolžina Ladje: 129,49","Ugrez: 8,72",Teža tovora (t): 24
+77363,RIYADH MUKAAB,19.01.2026,KONTEJNERJI,Ticanje: 77363 (Odvezana),Ladja: RIYB,"Datum: 19.01.2026, 00:00","Dolžina Ladje: 224,50","Ugrez: 12,21",Teža tovora (t): 4.500
+77305,PANDA 006,19.01.2026,KONTEJNERJI,Ticanje: 77305 (Odvezana),Ladja: PND6,"Datum: 19.01.2026, 00:00","Dolžina Ladje: 270,07","Ugrez: 14,50",Teža tovora (t): 27.000
+77433,MITO,19.01.2026,KONTEJNERJI,Ticanje: 77433 (Odvezana),Ladja: MITO,"Datum: 19.01.2026, 00:00","Dolžina Ladje: 147,84","Ugrez: 8,52",Teža tovora (t): 315
+77479,STI POPLAR,20.01.2026,ULSD,Ticanje: 77479 (Odvezana),Ladja: SIPP,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 184,26","Ugrez: 11,91",Teža tovora (t): 30.000
+77477,CONTI GREENLAND,20.01.2026,ULSD,Ticanje: 77477 (Stornirana),Ladja: CTGD,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 184,32","Ugrez: 11,31",Teža tovora (t): 27.000
+77478,HISTRIA ATLAS,20.01.2026,GAS OIL,Ticanje: 77478 (Odvezana),Ladja: HSAS,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 180,00","Ugrez: 11,13",Teža tovora (t): 33.000
+77482,CB ADRIATIC,20.01.2026,ULSD,Ticanje: 77482 (Odvezana),Ladja: CBAD,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 182,79","Ugrez: 10,50",Teža tovora (t): 33.000
+77366,CONTSHIP ERA,20.01.2026,KONTEJNERJI,Ticanje: 77366 (Stornirana),Ladja: CNTE,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.000
+77459,BREB COUNTESS,20.01.2026,SOL,Ticanje: 77459 (Odvezana),Ladja: BRBC,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 7.440
+77392,MSC EAGLE III,20.01.2026,KONTEJNERJI,Ticanje: 77392 (Odvezana),Ladja: MSGL,"Datum: 20.01.2026, 00:00","Dolžina Ladje: 207,40","Ugrez: 11,40",Teža tovora (t): 2.500
+77472,CDRY BROWN,21.01.2026,LES,Ticanje: 77472 (Odvezana),Ladja: CDBR,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,00",Teža tovora (t): 6.000
+77463,ZIM AUSTRALIA,21.01.2026,KONTEJNERJI,Ticanje: 77463 (Odvezana),Ladja: ZIML,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 148,53","Ugrez: 7,80",Teža tovora (t): 2.000
+77467,CATANIA,21.01.2026,SOL,Ticanje: 77467 (Odvezana),Ladja: CTNA,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 87,91","Ugrez: 4,10",Teža tovora (t): 2.401
+77426,MAERSK CAMPTON,21.01.2026,KONTEJNERJI,Ticanje: 77426 (Odvezana),Ladja: MCPT,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 365,90","Ugrez: 17,02",Teža tovora (t): 30.000
+77436,NEPTUNE ILIAD,21.01.2026,VOZILA,Ticanje: 77436 (Odvezana),Ladja: NPIL,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77496,CONTI GREENLAND,21.01.2026,ULSD,Ticanje: 77496 (Odvezana),Ladja: CTGD,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 184,32","Ugrez: 11,31",Teža tovora (t): 27.000
+77462,BREB COUNTESS,21.01.2026,LES,Ticanje: 77462 (Odvezana),Ladja: BRBC,"Datum: 21.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 6.000
+77486,IMMENSITY,22.01.2026,KONT,Ticanje: 77486 (Odvezana),Ladja: IMMY,"Datum: 22.01.2026, 00:00","Dolžina Ladje: 108,60","Ugrez: 7,80",Teža tovora (t): 65
+77432,MAGNAR,22.01.2026,KONTEJNERJI,Ticanje: 77432 (Odvezana),Ladja: MGRR,"Datum: 22.01.2026, 00:00","Dolžina Ladje: 98,90","Ugrez: 5,74",Teža tovora (t): 410
+77410,CMA CGM KRYPTON,23.01.2026,KONTEJNERJI,Ticanje: 77410 (Odvezana),Ladja: CCKP,"Datum: 23.01.2026, 00:00","Dolžina Ladje: 335,26","Ugrez: 15,50",Teža tovora (t): 50.000
+77443,CATALINA,23.01.2026,KONTEJNERJI,Ticanje: 77443 (Odvezana),Ladja: CTLN,"Datum: 23.01.2026, 00:00","Dolžina Ladje: 123,06","Ugrez: 7,08",Teža tovora (t): 8.000
+77404,MSC KATALIN II,23.01.2026,KONT,Ticanje: 77404 (Stornirana),Ladja: MKN2,"Datum: 23.01.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 9,90",Teža tovora (t): 1.500
+77484,TALEEN,24.01.2026,SOL,Ticanje: 77484 (Odvezana),Ladja: TEEN,"Datum: 24.01.2026, 00:00","Dolžina Ladje: 122,25","Ugrez: 7,08",Teža tovora (t): 8.000
+77425,CAELUM ACE,24.01.2026,AVTI MER.,Ticanje: 77425 (Odvezana),Ladja: CLMA,"Datum: 24.01.2026, 00:00","Dolžina Ladje: 199,96","Ugrez: 9,97",Teža tovora (t): 7.800
+77481,NEPTUNE KEFALONIA,24.01.2026,VOZILA,Ticanje: 77481 (Odvezana),Ladja: NPKF,"Datum: 24.01.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77393,MSC POLINA,24.01.2026,KONTEJNERJI,Ticanje: 77393 (Stornirana),Ladja: MSPO,"Datum: 24.01.2026, 00:00","Dolžina Ladje: 208,95","Ugrez: 11,60",Teža tovora (t): 2.500
+77441,MSC PAMIRA III,24.01.2026,KONTEJNERJI,Ticanje: 77441 (Stornirana),Ladja: MPMR,"Datum: 24.01.2026, 00:00","Dolžina Ladje: 211,85","Ugrez: 11,40",Teža tovora (t): 2.500
+77501,ASTURIAS,25.01.2026,VOZILA,Ticanje: 77501 (Odvezana),Ladja: ASUA,"Datum: 25.01.2026, 00:00","Dolžina Ladje: 167,25","Ugrez: 8,60",Teža tovora (t): 1.500
+77490,BRONX,25.01.2026,UNLEADED GASOLINE,Ticanje: 77490 (Odvezana),Ladja: BRNX,"Datum: 25.01.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 11,31",Teža tovora (t): 20.000
+77394,MSC AGATA III,25.01.2026,KONTEJNERJI,Ticanje: 77394 (Stornirana),Ladja: MSAG,"Datum: 25.01.2026, 00:00","Dolžina Ladje: 211,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77429,MSC JENNY II,25.01.2026,KONTEJNERJI,Ticanje: 77429 (Stornirana),Ladja: MSJY,"Datum: 25.01.2026, 00:00","Dolžina Ladje: 200,23","Ugrez: 12,02",Teža tovora (t): 2.500
+77487,MAUREN,25.01.2026,KONTEJNERJI,Ticanje: 77487 (Stornirana),Ladja: MMRN,"Datum: 25.01.2026, 00:00","Dolžina Ladje: 147,83","Ugrez: 8,50",Teža tovora (t): 2.500
+77498,NOPAC CHALLENGER,26.01.2026,BORAX ETIBOR - 48,Ticanje: 77498 (Odvezana),Ladja: NOCH,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 104,14","Ugrez: 5,60",Teža tovora (t): 3.650
+77532,AV,26.01.2026,LES,Ticanje: 77532 (Odvezana),Ladja: AVXX,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 99,86","Ugrez: 5,98",Teža tovora (t): 7.800
+77311,EVER CHAMP,26.01.2026,KONTEJNERJI,Ticanje: 77311 (Odvezana),Ladja: EVMP,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 172,00","Ugrez: 8,00",Teža tovora (t): 10.000
+77460,BREB COURTESY,26.01.2026,SOL,Ticanje: 77460 (Odvezana),Ladja: BBCY,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 7.400
+77283,CMA CGM SINTRA,26.01.2026,KONTEJNERJI,Ticanje: 77283 (Odvezana),Ladja: CCSR,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 204,29","Ugrez: 10,01",Teža tovora (t): 8.000
+77391,MED SAMSUN,26.01.2026,KONTEJNERJI,Ticanje: 77391 (Odvezana),Ladja: MDSN,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 195,60","Ugrez: 11,10",Teža tovora (t): 2.500
+77488,MSC PORTO III,26.01.2026,KONTEJNERJI,Ticanje: 77488 (Odvezana),Ladja: MSPT,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 207,54","Ugrez: 11,40",Teža tovora (t): 2.500
+77512,MSC POLINA,26.01.2026,KONTEJNERJI,Ticanje: 77512 (Odvezana),Ladja: MSPO,"Datum: 26.01.2026, 00:00","Dolžina Ladje: 208,95","Ugrez: 11,60",Teža tovora (t): 2.500
+77448,MAERSK HONG KONG,27.01.2026,KONTEJNERJI,Ticanje: 77448 (Odvezana),Ladja: MHKN,"Datum: 27.01.2026, 00:00","Dolžina Ladje: 353,02","Ugrez: 16,00",Teža tovora (t): 30.000
+77492,OLIVIA,27.01.2026,KONTS,Ticanje: 77492 (Odvezana),Ladja: OIVA,"Datum: 27.01.2026, 00:00","Dolžina Ladje: 137,97","Ugrez: 8,00",Teža tovora (t): 31
+77370,MARLA BULL,27.01.2026,KONTEJNERJI,Ticanje: 77370 (Stornirana),Ladja: MLBL,"Datum: 27.01.2026, 00:00","Dolžina Ladje: 171,98","Ugrez: 9,50",Teža tovora (t): 2.000
+77455,MSC RITA V,27.01.2026,KONT,Ticanje: 77455 (Odvezana),Ladja: MSRT,"Datum: 27.01.2026, 00:00","Dolžina Ladje: 293,81","Ugrez: 14,50",Teža tovora (t): 1.500
+77364,CHANG SHUN JIN XIU,28.01.2026,KONTEJNERJI,Ticanje: 77364 (Odvezana),Ladja: CSJX,"Datum: 28.01.2026, 00:00","Dolžina Ladje: 197,00","Ugrez: 11,60",Teža tovora (t): 4.200
+77495,GRAND BENELUX,28.01.2026,VOZILA + RORO,Ticanje: 77495 (Odvezana),Ladja: GBNX,"Datum: 28.01.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,00",Teža tovora (t): 1.000
+77480,ZIM NEW ZEALAND,28.01.2026,KONTEJNERJI,Ticanje: 77480 (Stornirana),Ladja: ZNWZ,"Datum: 28.01.2026, 00:00","Dolžina Ladje: 149,60","Ugrez: 7,80",Teža tovora (t): 2.000
+77396,MAUREN,28.01.2026,KONTEJNERJI,Ticanje: 77396 (Odvezana),Ladja: MMRN,"Datum: 28.01.2026, 00:00","Dolžina Ladje: 147,83","Ugrez: 8,50",Teža tovora (t): 2.500
+77451,ADMIRAL SUN,28.01.2026,KONTEJNERJI,Ticanje: 77451 (Odvezana),Ladja: ADSU,"Datum: 28.01.2026, 00:00","Dolžina Ladje: 139,10","Ugrez: 8,80",Teža tovora (t): 300
+77497,STOLYA,29.01.2026,FOSFAT,Ticanje: 77497 (Odvezana),Ladja: STYA,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 111,75","Ugrez: 6,86",Teža tovora (t): 5.500
+77524,GRANDE DETROIT,29.01.2026,VOZILA + RORO,Ticanje: 77524 (Odvezana),Ladja: GRDR,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,75",Teža tovora (t): 1.000
+77411,CMA CGM COBALT,29.01.2026,KONTEJNERJI,Ticanje: 77411 (Odvezana),Ladja: CMCT,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 335,08","Ugrez: 15,52",Teža tovora (t): 50.000
+77420,NORDLUCHS,29.01.2026,KONTEJNERJI,Ticanje: 77420 (Odvezana),Ladja: NDLS,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 169,99","Ugrez: 9,51",Teža tovora (t): 5.000
+77536,SEPEN,29.01.2026,GASOLINE,Ticanje: 77536 (Odvezana),Ladja: SPEN,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 92,86","Ugrez: 5,70",Teža tovora (t): 3.000
+77518,BREB COURTESY,29.01.2026,LES,Ticanje: 77518 (Odvezana),Ladja: BBCY,"Datum: 29.01.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 6.000
+77475,SIARGAO,30.01.2026,KONTEJNERJI,Ticanje: 77475 (Odvezana),Ladja: SIAO,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 172,00","Ugrez: 9,70",Teža tovora (t): 5.000
+77494,MEIKE,30.01.2026,COILS,Ticanje: 77494 (Odvezana),Ladja: MEIK,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 96,00","Ugrez: 6,90",Teža tovora (t): 3.800
+77381,CMA CGM QUEST,30.01.2026,KONTEJNERJI,Ticanje: 77381 (Odvezana),Ladja: CCGS,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 184,99","Ugrez: 9,50",Teža tovora (t): 8.000
+77508,CHANG TAI HONG,30.01.2026,VOZILA,Ticanje: 77508 (Odvezana),Ladja: CTHG,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 176,02","Ugrez: 8,70",Teža tovora (t): 2.437
+77374,XIN HAI TONG 33,30.01.2026,GENERALNI TOVOR,Ticanje: 77374 (Odvezana),Ladja: XH33,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 189,99","Ugrez: 12,80",Teža tovora (t): 5.000
+77548,LARGO DESERT,30.01.2026,ULSD,Ticanje: 77548 (Odvezana),Ladja: LGDT,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 183,06","Ugrez: 13,32",Teža tovora (t): 42.000
+77483,ANAKIN,30.01.2026,ŽIVE ŽIVALI,Ticanje: 77483 (Odvezana),Ladja: AAIN,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 91,30","Ugrez: 5,16",Teža tovora (t): 800
+77528,SARA RS,30.01.2026,SOL,Ticanje: 77528 (Odvezana),Ladja: SRRS,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 124,85","Ugrez: 6,98",Teža tovora (t): 8.800
+77491,OBERON,30.01.2026,"AVTOMOBILI, MAFI",Ticanje: 77491 (Odvezana),Ladja: OBON,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 236,60","Ugrez: 11,31",Teža tovora (t): 2.600
+77499,BYD ZHENGZHOU,30.01.2026,VOZILA,Ticanje: 77499 (Odvezana),Ladja: BYDZ,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 199,90","Ugrez: 10,00",Teža tovora (t): 1.967
+77523,MSC JENNY II,30.01.2026,KONTEJNERJI,Ticanje: 77523 (Odvezana),Ladja: MSJY,"Datum: 30.01.2026, 00:00","Dolžina Ladje: 200,23","Ugrez: 12,02",Teža tovora (t): 2.500
+77517,ANTARES,31.01.2026,UNLEADED GASOLINE,Ticanje: 77517 (Odvezana),Ladja: ATAY,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 179,99","Ugrez: 11,20",Teža tovora (t): 30.000
+77552,ALLEGRA,31.01.2026,ULSD,Ticanje: 77552 (Odvezana),Ladja: ALLG,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 179,96","Ugrez: 12,40",Teža tovora (t): 29.932
+77444,MSC ROSSELLA III,31.01.2026,KONTEJNERJI,Ticanje: 77444 (Stornirana),Ladja: MRLL,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 222,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77438,NEPTUNE THALASSA,31.01.2026,VOZILA,Ticanje: 77438 (Odvezana),Ladja: NTTA,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 169,55","Ugrez: 8,70",Teža tovora (t): 5.000
+77541,SEA SPRINTER,31.01.2026,ODPADNO ŽELEZO,Ticanje: 77541 (Odvezana),Ladja: SPNT,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 127,30","Ugrez: 4,86",Teža tovora (t): 5.500
+77525,POTENTIA,31.01.2026,PROJECT CARGO,Ticanje: 77525 (Odvezana),Ladja: PTNT,"Datum: 31.01.2026, 00:00","Dolžina Ladje: 138,50","Ugrez: 8,00",Teža tovora (t): 440
+77540,NEPTUNE ILIAD,01.02.2026,VOZILA,Ticanje: 77540 (Odvezana),Ladja: NPIL,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77458,MSC GIANNA III,01.02.2026,KONTEJNERJI,Ticanje: 77458 (Stornirana),Ladja: MSGA,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 201,56","Ugrez: 12,20",Teža tovora (t): 2.500
+77553,MED EXPRESS,01.02.2026,RABLJENA VOZILA,Ticanje: 77553 (Odvezana),Ladja: MDEX,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 155,90","Ugrez: 6,80",Teža tovora (t): 1.000
+77554,VS LISBETH,01.02.2026,ULSD,Ticanje: 77554 (Odvezana),Ladja: VSLH,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 182,86","Ugrez: 11,61",Teža tovora (t): 30.000
+77395,MSC HARMONY III,01.02.2026,KONTEJNERJI,Ticanje: 77395 (Stornirana),Ladja: MSH3,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 222,14","Ugrez: 12,02",Teža tovora (t): 2.500
+77485,MSC RHIANNON,01.02.2026,KONTEJNERJI,Ticanje: 77485 (Stornirana),Ladja: MCRN,"Datum: 01.02.2026, 00:00","Dolžina Ladje: 188,10","Ugrez: 11,50",Teža tovora (t): 2.500
+77561,ALDEBARAN,02.02.2026,JET,Ticanje: 77561 (Odvezana),Ladja: ADEB,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 183,00","Ugrez: 10,50",Teža tovora (t): 29.998
+77521,GANDA,02.02.2026,KONTS,Ticanje: 77521 (Stornirana),Ladja: GNDA,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 79,94","Ugrez: 4,29",Teža tovora (t): 52
+77418,LIDER TRABZON,02.02.2026,VOZILA + RORO,Ticanje: 77418 (Stornirana),Ladja: LRTN,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 147,40","Ugrez: 5,33",Teža tovora (t): 1.000
+77493,NEPTUNE ITHAKI,02.02.2026,VOZILA,Ticanje: 77493 (Odvezana),Ladja: NPIT,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77439,MSC CHARLOTTE,02.02.2026,KONTEJNERJI,Ticanje: 77439 (Odvezana),Ladja: MCCS,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.500
+77469,MSC ANTWERP III,02.02.2026,KONTEJNERJI,Ticanje: 77469 (Stornirana),Ladja: MSAW,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 211,85","Ugrez: 11,40",Teža tovora (t): 2.500
+77502,MSC PAMIRA III,02.02.2026,KONTEJNERJI,Ticanje: 77502 (Odvezana),Ladja: MPMR,"Datum: 02.02.2026, 00:00","Dolžina Ladje: 211,85","Ugrez: 11,40",Teža tovora (t): 2.500
+77519,MITTELPLATE,03.02.2026,PROJEKTNI TOVOR,Ticanje: 77519 (Odvezana),Ladja: MLPT,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 85,91","Ugrez: 5,30",Teža tovora (t): 70
+77555,MSC JENNY II,03.02.2026,KONTEJNERJI,Ticanje: 77555 (Odvezana),Ladja: MSJY,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 200,23","Ugrez: 12,02",Teža tovora (t): 2.500
+77474,HANNE DANICA,03.02.2026,KONTEJNERJI,Ticanje: 77474 (Odvezana),Ladja: HNDA,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 71,75","Ugrez: 4,94",Teža tovora (t): 33
+77543,POLARIS PRINCESS,03.02.2026,VOZILA,Ticanje: 77543 (Odvezana),Ladja: PSPS,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 117,00","Ugrez: 5,95",Teža tovora (t): 2.500
+77367,CONTSHIP ERA,03.02.2026,KONTEJNERJI,Ticanje: 77367 (Stornirana),Ladja: CNTE,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.000
+77453,MSC EAGLE III,03.02.2026,KONTEJNERJI,Ticanje: 77453 (Stornirana),Ladja: MSGL,"Datum: 03.02.2026, 00:00","Dolžina Ladje: 207,40","Ugrez: 11,40",Teža tovora (t): 2.500
+77503,AFIF,04.02.2026,G.T. V KONT.,Ticanje: 77503 (Odvezana),Ladja: AFIF,"Datum: 04.02.2026, 00:00","Dolžina Ladje: 368,52","Ugrez: 15,52",Teža tovora (t): 60.000
+77446,CHATTANOOGA,04.02.2026,KONTEJNERJI,Ticanje: 77446 (Odvezana),Ladja: CHOO,"Datum: 04.02.2026, 00:00","Dolžina Ladje: 143,17","Ugrez: 8,30",Teža tovora (t): 250
+77510,MSC ANTWERP III,04.02.2026,KONTEJNERJI,Ticanje: 77510 (Odvezana),Ladja: MSAW,"Datum: 04.02.2026, 00:00","Dolžina Ladje: 211,85","Ugrez: 11,40",Teža tovora (t): 2.500
+77563,KIJAC,04.02.2026,GASOLINE,Ticanje: 77563 (Odvezana),Ladja: KJAC,"Datum: 04.02.2026, 00:00","Dolžina Ladje: 92,86","Ugrez: 5,80",Teža tovora (t): 3.000
+77454,CAPE SUZURAN,05.02.2026,IRON ORE,Ticanje: 77454 (Odvezana),Ladja: CASN,"Datum: 05.02.2026, 00:00","Dolžina Ladje: 291,96","Ugrez: 18,25",Teža tovora (t): 166.710
+77427,BILLIE,05.02.2026,KONTS,Ticanje: 77427 (Odvezana),Ladja: BLLE,"Datum: 05.02.2026, 00:00","Dolžina Ladje: 138,07","Ugrez: 8,00",Teža tovora (t): 4
+77505,MSC GIANNA III,05.02.2026,KONTEJNERJI,Ticanje: 77505 (Stornirana),Ladja: MSGA,"Datum: 05.02.2026, 00:00","Dolžina Ladje: 201,56","Ugrez: 12,20",Teža tovora (t): 2.500
+77544,GRANDE SPAGNA,05.02.2026,VOZILA + RORO,Ticanje: 77544 (Odvezana),Ladja: GRES,"Datum: 05.02.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,77",Teža tovora (t): 1.000
+77473,MSC HELENA III,05.02.2026,KONT,Ticanje: 77473 (Stornirana),Ladja: MSHL,"Datum: 05.02.2026, 00:00","Dolžina Ladje: 220,35","Ugrez: 12,15",Teža tovora (t): 1.500
+77464,ZIM AUSTRALIA,06.02.2026,KONTEJNERJI,Ticanje: 77464 (Odvezana),Ladja: ZIML,"Datum: 06.02.2026, 00:00","Dolžina Ladje: 148,53","Ugrez: 7,80",Teža tovora (t): 2.000
+77506,CMA CGM ANTIGONE,06.02.2026,KONTEJNERJI,Ticanje: 77506 (Odvezana),Ladja: CANE,"Datum: 06.02.2026, 00:00","Dolžina Ladje: 366,00","Ugrez: 16,00",Teža tovora (t): 50.000
+77365,PANDA 007,06.02.2026,KONTEJNERJI,Ticanje: 77365 (Odvezana),Ladja: P007,"Datum: 06.02.2026, 00:00","Dolžina Ladje: 277,28","Ugrez: 12,52",Teža tovora (t): 9.500
+77413,MED TRABZON,06.02.2026,KONTEJNERJI,Ticanje: 77413 (Odvezana),Ladja: METN,"Datum: 06.02.2026, 00:00","Dolžina Ladje: 182,03","Ugrez: 11,57",Teža tovora (t): 2.500
+77509,MSC RHIANNON,06.02.2026,KONTEJNERJI,Ticanje: 77509 (Odvezana),Ladja: MCRN,"Datum: 06.02.2026, 00:00","Dolžina Ladje: 188,10","Ugrez: 11,50",Teža tovora (t): 2.500
+77500,BELGRANO,07.02.2026,SOYA,Ticanje: 77500 (Odvezana),Ladja: BLGR,"Datum: 07.02.2026, 00:00","Dolžina Ladje: 228,99","Ugrez: 14,42",Teža tovora (t): 63.000
+77549,LADY JASMINE,07.02.2026,SOL,Ticanje: 77549 (Odvezana),Ladja: LYJA,"Datum: 07.02.2026, 00:00","Dolžina Ladje: 105,87","Ugrez: 7,00",Teža tovora (t): 6.100
+77527,NEPTUNE KEFALONIA,07.02.2026,VOZILA,Ticanje: 77527 (Odvezana),Ladja: NPKF,"Datum: 07.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77542,DOLPHIN E,08.02.2026,FOSFATI,Ticanje: 77542 (Odvezana),Ladja: DLPE,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 78,50","Ugrez: 4,75",Teža tovora (t): 1.600
+77546,KING VICTOR,08.02.2026,SOL,Ticanje: 77546 (Odvezana),Ladja: KIVI,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 103,55","Ugrez: 6,80",Teža tovora (t): 5.400
+77430,ASIAN PROSPERITY,08.02.2026,BATERIJE,Ticanje: 77430 (Odvezana),Ladja: ASPY,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 119,80","Ugrez: 7,59",Teža tovora (t): 3.840
+77516,STAR SUZANNA,08.02.2026,SOYA,Ticanje: 77516 (Odvezana),Ladja: SRSZ,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 229,00","Ugrez: 14,45",Teža tovora (t): 20.000
+77452,MED AYDIN,08.02.2026,KONTEJNERJI,Ticanje: 77452 (Stornirana),Ladja: MDAN,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 195,71","Ugrez: 11,50",Teža tovora (t): 2.500
+77560,MSC MASHA 3,08.02.2026,KONTEJNERJI,Ticanje: 77560 (Odvezana),Ladja: MCMS,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 183,63","Ugrez: 11,56",Teža tovora (t): 2.500
+77579,PRINCESS LAYLA,08.02.2026,MOP,Ticanje: 77579 (Odvezana),Ladja: PSLL,"Datum: 08.02.2026, 00:00","Dolžina Ladje: 181,00","Ugrez: 10,03",Teža tovora (t): 15.000
+77551,BTG MISTI,09.02.2026,COAL,Ticanje: 77551 (Odvezana),Ladja: BTGM,"Datum: 09.02.2026, 00:00","Dolžina Ladje: 228,90","Ugrez: 14,50",Teža tovora (t): 30.262
+77538,TIBER RIVER,09.02.2026,SALT,Ticanje: 77538 (Odvezana),Ladja: TRRV,"Datum: 09.02.2026, 00:00","Dolžina Ladje: 136,47","Ugrez: 5,30",Teža tovora (t): 6.900
+77417,G TAISHAN,09.02.2026,PROJECT CARGO,Ticanje: 77417 (Odvezana),Ladja: GTHN,"Datum: 09.02.2026, 00:00","Dolžina Ladje: 189,99","Ugrez: 12,80",Teža tovora (t): 1.400
+77514,MSC EAGLE III,09.02.2026,KONTEJNERJI,Ticanje: 77514 (Odvezana),Ladja: MSGL,"Datum: 09.02.2026, 00:00","Dolžina Ladje: 207,40","Ugrez: 11,40",Teža tovora (t): 2.500
+77581,ANNABELLA,10.02.2026,SOL,Ticanje: 77581 (Odvezana),Ladja: ANLA,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 122,60","Ugrez: 9,15",Teža tovora (t): 11.500
+77534,STOLT OCELOT,10.02.2026,METHANOL,Ticanje: 77534 (Odvezana),Ladja: STOC,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 155,00","Ugrez: 10,22",Teža tovora (t): 9.000
+77574,HIMMEL,10.02.2026,KONTS,Ticanje: 77574 (Odvezana),Ladja: HIMM,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 89,92","Ugrez: 6,13",Teža tovora (t): 76
+77585,HISTRIA GIADA,10.02.2026,ULSD,Ticanje: 77585 (Odvezana),Ladja: HISG,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 179,96","Ugrez: 12,00",Teža tovora (t): 30.000
+77372,MARLA BULL,10.02.2026,KONTEJNERJI,Ticanje: 77372 (Stornirana),Ladja: MLBL,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 171,98","Ugrez: 9,50",Teža tovora (t): 2.000
+77592,NEPTUNE AVRA,10.02.2026,VOZILA,Ticanje: 77592 (Odvezana),Ladja: NEPV,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 155,02","Ugrez: 6,82",Teža tovora (t): 2.000
+77586,KLEDES MARY,10.02.2026,SOL,Ticanje: 77586 (Odvezana),Ladja: KSMY,"Datum: 10.02.2026, 00:00","Dolžina Ladje: 81,70","Ugrez: 4,45",Teža tovora (t): 2.360
+77382,CMA CGM MONTREAL,11.02.2026,KONTEJNERJI,Ticanje: 77382 (Odvezana),Ladja: CCML,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 199,93","Ugrez: 11,27",Teža tovora (t): 8.000
+77594,ANTARES,11.02.2026,ULSD,Ticanje: 77594 (Odvezana),Ladja: ANRS,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 183,17","Ugrez: 10,50",Teža tovora (t): 32.500
+77593,SAHIN 3,11.02.2026,SOL,Ticanje: 77593 (Stornirana),Ladja: SAH3,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 94,56","Ugrez: 5,99",Teža tovora (t): 4.200
+77529,CONTSHIP ERA,11.02.2026,KONTEJNERJI,Ticanje: 77529 (Odvezana),Ladja: CNTE,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.000
+77449,MAERSK HORSBURGH,11.02.2026,KONTEJNERJI,Ticanje: 77449 (Odvezana),Ladja: MAHO,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 353,02","Ugrez: 17,00",Teža tovora (t): 30.000
+77522,MSC HELENA III,11.02.2026,KONT,Ticanje: 77522 (Stornirana),Ladja: MSHL,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 220,35","Ugrez: 12,15",Teža tovora (t): 1.500
+77461,PENANG BRIDGE,11.02.2026,KONTEJNERJI,Ticanje: 77461 (Odvezana),Ladja: PGBG,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 171,99","Ugrez: 9,52",Teža tovora (t): 400
+77489,MSC PORTO III,11.02.2026,KONTEJNERJI,Ticanje: 77489 (Stornirana),Ladja: MSPT,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 207,54","Ugrez: 11,40",Teža tovora (t): 2.500
+77569,EVER CHART,11.02.2026,KONTEJNERJI,Ticanje: 77569 (Odvezana),Ladja: CRTT,"Datum: 11.02.2026, 00:00","Dolžina Ladje: 172,00","Ugrez: 8,50",Teža tovora (t): 10.000
+77567,NEPTUNE ILIAD,12.02.2026,VOZILA,Ticanje: 77567 (Odvezana),Ladja: NPIL,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77596,DARLA,12.02.2026,ŽIVE ŽIVALI,Ticanje: 77596 (Odvezana),Ladja: DRLA,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 81,39","Ugrez: 5,95",Teža tovora (t): 1.000
+77591,XIN HAI TONG 501,12.02.2026,KONTEJNERJI,Ticanje: 77591 (Odvezana),Ladja: XHT5,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 122,45","Ugrez: 7,15",Teža tovora (t): 42
+77571,GRAND BENELUX,12.02.2026,VOZILA + RORO,Ticanje: 77571 (Odvezana),Ladja: GBNX,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,00",Teža tovora (t): 1.000
+77537,ANUNNAKI,12.02.2026,FERTILIZER,Ticanje: 77537 (Odvezana),Ladja: AUAI,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 126,42","Ugrez: 7,60",Teža tovora (t): 8.000
+77613,ARDMORE DEFENDER,12.02.2026,ULSD,Ticanje: 77613 (Odvezana),Ladja: ARDE,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 10,20",Teža tovora (t): 29.921
+77511,MED AYDIN,12.02.2026,KONTEJNERJI,Ticanje: 77511 (Stornirana),Ladja: MDAN,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 195,71","Ugrez: 11,50",Teža tovora (t): 2.500
+77533,UAFL RACER,12.02.2026,KONTEJNERJI,Ticanje: 77533 (Odvezana),Ladja: UARR,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 175,54","Ugrez: 10,90",Teža tovora (t): 5.000
+77470,MSC HANNAH,12.02.2026,KONTEJNERJI,Ticanje: 77470 (Odvezana),Ladja: MHNN,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 210,85","Ugrez: 12,02",Teža tovora (t): 2.500
+77539,MITO,12.02.2026,KONTEJNERJI,Ticanje: 77539 (Odvezana),Ladja: MITO,"Datum: 12.02.2026, 00:00","Dolžina Ladje: 147,84","Ugrez: 8,52",Teža tovora (t): 350
+77595,MARIONA,13.02.2026,ŽIVE ŽIVALI,Ticanje: 77595 (Odvezana),Ladja: MAOA,"Datum: 13.02.2026, 00:00","Dolžina Ladje: 77,25","Ugrez: 6,41",Teža tovora (t): 1.000
+77580,SC MEMPHIS,13.02.2026,KONTEJNERJI,Ticanje: 77580 (Odvezana),Ladja: SCMS,"Datum: 13.02.2026, 00:00","Dolžina Ladje: 154,60","Ugrez: 9,00",Teža tovora (t): 5.000
+77535,YASA KYOTO,13.02.2026,SOYA,Ticanje: 77535 (Odvezana),Ladja: YAKO,"Datum: 13.02.2026, 00:00","Dolžina Ladje: 179,90","Ugrez: 10,52",Teža tovora (t): 30.000
+77589,CDRY WHITE,13.02.2026,LES,Ticanje: 77589 (Odvezana),Ladja: CDRY,"Datum: 13.02.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,06",Teža tovora (t): 6.000
+77611,SEA CARYATIS,14.02.2026,VOZILA,Ticanje: 77611 (Odvezana),Ladja: SCRT,"Datum: 14.02.2026, 00:00","Dolžina Ladje: 162,49","Ugrez: 6,00",Teža tovora (t): 539
+77457,PANDA 009,14.02.2026,KONTEJNERJI,Ticanje: 77457 (Odvezana),Ladja: P009,"Datum: 14.02.2026, 00:00","Dolžina Ladje: 276,20","Ugrez: 14,42",Teža tovora (t): 9.500
+77564,GRANDE ANVERSA,14.02.2026,VOZILA + RORO,Ticanje: 77564 (Odvezana),Ladja: GANV,"Datum: 14.02.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,30",Teža tovora (t): 1.000
+77399,NEPTUNE GALENE,14.02.2026,VOZILA,Ticanje: 77399 (Odvezana),Ladja: NPGN,"Datum: 14.02.2026, 00:00","Dolžina Ladje: 169,55","Ugrez: 8,70",Teža tovora (t): 4.000
+77471,MSC OLGA F,14.02.2026,KONTEJNERJI,Ticanje: 77471 (Stornirana),Ladja: MOLF,"Datum: 14.02.2026, 00:00","Dolžina Ladje: 147,90","Ugrez: 8,50",Teža tovora (t): 2.500
+77568,NEPTUNE ITHAKI,15.02.2026,VOZILA,Ticanje: 77568 (Odvezana),Ladja: NPIT,"Datum: 15.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77630,HENRIETTE MAERSK,15.02.2026,ULSD,Ticanje: 77630 (Odvezana),Ladja: HEMK,"Datum: 15.02.2026, 00:00","Dolžina Ladje: 180,00","Ugrez: 10,22",Teža tovora (t): 30.000
+77597,LAPIS ACE,16.02.2026,AVTI MER.,Ticanje: 77597 (Odvezana),Ladja: LAAE,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 199,93","Ugrez: 10,11",Teža tovora (t): 7.000
+77550,SKY FALCON,16.02.2026,KONTEJNERJI,Ticanje: 77550 (Odvezana),Ladja: SYFC,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 89,75","Ugrez: 5,48",Teža tovora (t): 77
+77504,AL JMELIYAH,16.02.2026,G.T. V KONT.,Ticanje: 77504 (Odvezana),Ladja: ALJY,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 368,52","Ugrez: 15,52",Teža tovora (t): 60.000
+77562,LAKE LUGU,16.02.2026,AVTI MER.,Ticanje: 77562 (Odvezana),Ladja: LALG,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 199,90","Ugrez: 9,98",Teža tovora (t): 9.000
+77513,MSC AGATA III,16.02.2026,KONTEJNERJI,Ticanje: 77513 (Odvezana),Ladja: MSAG,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 211,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77520,ARGO,16.02.2026,BAUXITE,Ticanje: 77520 (Končana),Ladja: ARG1,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,27",Teža tovora (t): 5.656
+77557,MED SAMSUN,16.02.2026,KONTEJNERJI,Ticanje: 77557 (Odvezana),Ladja: MDSN,"Datum: 16.02.2026, 00:00","Dolžina Ladje: 195,60","Ugrez: 11,10",Teža tovora (t): 2.500
+77572,LADY EVA,17.02.2026,LES,Ticanje: 77572 (Odvezana),Ladja: LAYE,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 111,60","Ugrez: 6,08",Teža tovora (t): 7.500
+77545,MARLA BULL,17.02.2026,KONTEJNERJI,Ticanje: 77545 (Odvezana),Ladja: MLBL,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 171,98","Ugrez: 9,50",Teža tovora (t): 2.000
+77368,CONTSHIP ERA,17.02.2026,KONTEJNERJI,Ticanje: 77368 (Stornirana),Ladja: CNTE,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 147,87","Ugrez: 8,50",Teža tovora (t): 2.000
+77465,ZIM AUSTRALIA,17.02.2026,KONTEJNERJI,Ticanje: 77465 (Stornirana),Ladja: ZIML,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 148,53","Ugrez: 7,80",Teža tovora (t): 2.000
+77515,MSC ROSSELLA III,17.02.2026,KONTEJNERJI,Ticanje: 77515 (Stornirana),Ladja: MRLL,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 222,00","Ugrez: 11,40",Teža tovora (t): 2.500
+77565,MSC RENAISSANCE III,17.02.2026,KONT,Ticanje: 77565 (Stornirana),Ladja: MSR3,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 222,54","Ugrez: 12,00",Teža tovora (t): 1.500
+77590,BREB COUNTESS,17.02.2026,LES,Ticanje: 77590 (Odvezana),Ladja: BRBC,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 6.000
+77628,MSC REET II,17.02.2026,KONTEJNERJI,Ticanje: 77628 (Odvezana),Ladja: MRET,"Datum: 17.02.2026, 00:00","Dolžina Ladje: 175,50","Ugrez: 10,90",Teža tovora (t): 2.500
+77408,EVRYDIKI,18.02.2026,COAL,Ticanje: 77408 (Končana),Ladja: EYDK,"Datum: 18.02.2026, 00:00","Dolžina Ladje: 249,88","Ugrez: 15,00",Teža tovora (t): 109.807
+77588,NORDLUCHS,18.02.2026,KONTEJNERJI,Ticanje: 77588 (Odvezana),Ladja: NDLS,"Datum: 18.02.2026, 00:00","Dolžina Ladje: 169,99","Ugrez: 9,51",Teža tovora (t): 5.000
+77405,CMA CGM SALAMANQUE,19.02.2026,KONTEJNERJI,Ticanje: 77405 (Odvezana),Ladja: CCSE,"Datum: 19.02.2026, 00:00","Dolžina Ladje: 204,29","Ugrez: 10,00",Teža tovora (t): 8.000
+77507,CMA CGM EUGENIE,19.02.2026,KONTEJNERJI,Ticanje: 77507 (Odvezana),Ladja: CCEG,"Datum: 19.02.2026, 00:00","Dolžina Ladje: 366,00","Ugrez: 16,00",Teža tovora (t): 50.000
+77623,MSC JENNY II,19.02.2026,KONTEJNERJI,Ticanje: 77623 (Odvezana),Ladja: MSJY,"Datum: 19.02.2026, 00:00","Dolžina Ladje: 200,23","Ugrez: 12,02",Teža tovora (t): 2.500
+77638,HAFNIA LYNX,20.02.2026,ULSD,Ticanje: 77638 (Odvezana),Ladja: HFLX,"Datum: 20.02.2026, 00:00","Dolžina Ladje: 183,00","Ugrez: 13,27",Teža tovora (t): 42.000
+77649,AV,20.02.2026,LES,Ticanje: 77649 (Odvezana),Ladja: AVXX,"Datum: 20.02.2026, 00:00","Dolžina Ladje: 99,86","Ugrez: 5,98",Teža tovora (t): 7.800
+77558,MSC RHIANNON,20.02.2026,KONTEJNERJI,Ticanje: 77558 (Stornirana),Ladja: MCRN,"Datum: 20.02.2026, 00:00","Dolžina Ladje: 188,10","Ugrez: 11,50",Teža tovora (t): 2.500
+77605,MSC CARPATHIA III,20.02.2026,KONT,Ticanje: 77605 (Stornirana),Ladja: MCA3,"Datum: 20.02.2026, 00:00","Dolžina Ladje: 222,14","Ugrez: 12,00",Teža tovora (t): 1.500
+77666,SNAPPER,21.02.2026,COILS,Ticanje: 77666 (Odvezana),Ladja: SNPP,"Datum: 21.02.2026, 00:00","Dolžina Ladje: 108,10","Ugrez: 7,00",Teža tovora (t): 6.095
+77614,EGE BEY,21.02.2026,UREA,Ticanje: 77614 (Končana),Ladja: EEBY,"Datum: 21.02.2026, 00:00","Dolžina Ladje: 130,59","Ugrez: 6,60",Teža tovora (t): 7.200
+77608,NEPTUNE KEFALONIA,21.02.2026,VOZILA,Ticanje: 77608 (Odvezana),Ladja: NPKF,"Datum: 21.02.2026, 00:00","Dolžina Ladje: 169,59","Ugrez: 8,70",Teža tovora (t): 5.000
+77660,BREB COURAGEOUS,21.02.2026,LES,Ticanje: 77660 (Odvezana),Ladja: BRCS,"Datum: 21.02.2026, 00:00","Dolžina Ladje: 108,20","Ugrez: 7,03",Teža tovora (t): 6.000
+77632,AMANY QUEEN,22.02.2026,SOL,Ticanje: 77632 (Na sidru),Ladja: AYQN,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 96,96","Ugrez: 6,83",Teža tovora (t): 5.500
+77610,GRANDE SPAGNA,22.02.2026,VOZILA + RORO,Ticanje: 77610 (Odvezana),Ladja: GRES,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 176,00","Ugrez: 8,77",Teža tovora (t): 1.000
+77599,CMA CGM J MADISON,22.02.2026,KONTEJNERJI,Ticanje: 77599 (Na vezu),Ladja: CCJM,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 365,96","Ugrez: 16,02",Teža tovora (t): 50.000
+77664,BRONX,22.02.2026,ULSD,Ticanje: 77664 (Odvezana),Ladja: BRNX,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 184,00","Ugrez: 11,31",Teža tovora (t): 30.000
+77570,MSC CLARITA III,22.02.2026,KONTEJNERJI,Ticanje: 77570 (Stornirana),Ladja: MSLT,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 212,84","Ugrez: 12,00",Teža tovora (t): 2.500
+77603,MSC EAGLE III,22.02.2026,KONTEJNERJI,Ticanje: 77603 (Stornirana),Ladja: MSGL,"Datum: 22.02.2026, 00:00","Dolžina Ladje: 207,40","Ugrez: 11,40",Teža tovora (t): 2.500
+77663,LADY SHAM,23.02.2026,LES,Ticanje: 77663 (Na sidru),Ladja: LYSM,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 108,50","Ugrez: 8,34",Teža tovora (t): 9.500
+77650,LADY ZEHRA,23.02.2026,FOSFAT,Ticanje: 77650 (Na sidru),Ladja: LYZR,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 171,59","Ugrez: 10,42",Teža tovora (t): 24.000
+77598,PRINCESS HANA,23.02.2026,SOL,Ticanje: 77598 (Na vezu),Ladja: PRHN,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 100,80","Ugrez: 6,73",Teža tovora (t): 7.575
+77654,SEASPRAT,23.02.2026,GASOLINE,Ticanje: 77654 (Odvezana),Ladja: SSRT,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 188,18","Ugrez: 11,00",Teža tovora (t): 27.000
+77582,RCC AMSTERDAM,23.02.2026,VOZILA,Ticanje: 77582 (Odvezana),Ladja: RCCM,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 199,95","Ugrez: 10,00",Teža tovora (t): 10.000
+77615,TULEEN,23.02.2026,ŽIVE ŽIVALI,Ticanje: 77615 (Odvezana),Ladja: PLAU,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 83,44","Ugrez: 5,06",Teža tovora (t): 800
+77607,ALVA MAERSK,23.02.2026,KONTEJNERJI,Ticanje: 77607 (Odvezana),Ladja: ALVA,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 350,59","Ugrez: 17,00",Teža tovora (t): 30.000
+77633,MC GAEA,23.02.2026,METANOL,Ticanje: 77633 (Odvezana),Ladja: MCGE,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 182,75","Ugrez: 13,30",Teža tovora (t): 13.000
+77651,AYA M,23.02.2026,RABLJENA VOZILA,Ticanje: 77651 (Odvezana),Ladja: AYAM,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 125,25","Ugrez: 6,20",Teža tovora (t): 1.000
+77559,MAUREN,23.02.2026,KONTEJNERJI,Ticanje: 77559 (Odvezana),Ladja: MMRN,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 147,83","Ugrez: 8,50",Teža tovora (t): 2.500
+77566,MSC RENAISSANCE III,23.02.2026,KONT,Ticanje: 77566 (Stornirana),Ladja: MSR3,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 222,54","Ugrez: 12,00",Teža tovora (t): 1.500
+77624,MSC RHIANNON,23.02.2026,KONTEJNERJI,Ticanje: 77624 (Odvezana),Ladja: MCRN,"Datum: 23.02.2026, 00:00","Dolžina Ladje: 188,10","Ugrez: 11,50",Teža tovora (t): 2.500

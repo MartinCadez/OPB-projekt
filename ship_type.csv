@@ -1,0 +1,7 @@
+ship_type_id,type_name,description
+1,Bulk Carrier,Heavy cargo
+2,Container Ship,Container transport
+3,Ro-Ro / Car Carrier,Vehicle transport
+4,General Cargo,Mixed cargo
+5,Tanker,Liquid cargo
+6,Project / Heavy Lift,Special cargo
