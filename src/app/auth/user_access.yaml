@@ -1,0 +1,19 @@
+admin:
+  admin: true
+  page_access: [all]
+
+user1:
+  admin: false
+  page_access: [all]
+
+user2:
+  admin: false
+  page_access: [ships_group, market_group]
+
+user3:
+  admin: false
+  page_access: [ships_group]
+
+user4:
+  admin: false
+  page_access: [market_group]

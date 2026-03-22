@@ -1,0 +1,93 @@
+/* restyle radio items */
+.radio-group .form-check {
+  padding-left: 0;
+}
+
+.radio-group .btn-group > .form-check:not(:last-child) > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: none;
+}
+
+.radio-group .btn-group > .form-check:not(:first-child) > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+}
+
+.current-row {
+  background-color: rgb(218, 230, 247) !important;
+  transition: transform 0.1s linear !important;
+}
+
+/* restake radui utens as button group*/
+
+/* adjust radio buttons for area selection on weather chart app */
+/* ============================================================ */
+.radio-group-weather_charts-charts-area .form-check {
+  padding-left: 0;
+  width: 100%;
+}
+
+.radio-group-weather_charts-charts-area
+  .btn-group
+  > .form-check:not(:last-child)
+  > .btn {
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-right: none;
+}
+
+.radio-group-weather_charts-charts-area
+  .btn-group
+  > .form-check:not(:first-child)
+  > .btn {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-left: -1px;
+}
+
+.radio-group-weather_charts-charts-area .current-row {
+  background-color: rgb(218, 230, 247) !important;
+  transition: transform 0.1s linear !important;
+}
+
+/* ============================================================ */
+
+/* PMO TABLES - hide buttons for export */
+
+#pmo-prices-hourly-table button.export {
+  display: none;
+}
+
+#pmo-prices-daily-table button.export {
+  display: none;
+}
+
+#pmo-psl-hourly-table button.export {
+  display: none;
+}
+
+#pmo-rl-residualload-hourly-table button.export {
+  display: none;
+}
+
+#pmo-rl-consumption-hourly-table button.export {
+  display: none;
+}
+
+#pmo-rl-windpower-hourly-table button.export {
+  display: none;
+}
+
+#pmo-rl-solarpower-hourly-table button.export {
+  display: none;
+}
+
+#pmo-spread-hourly-table button.export {
+  display: none;
+}
+
+#pmo-spread-daily-table button.export {
+  display: none;
+}
