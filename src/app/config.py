@@ -16,3 +16,7 @@ DB_PORT = os.getenv("DB_HOST_PORT")
 DB_URI = f"postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 engine = create_engine(DB_URI)
 cache = Cache(config={"CACHE_TYPE": "SimpleCache"})
+
+DASH_PORT = os.getenv("DASH_PORT")
+DASH_HOST = os.getenv("DASH_HOST")
+DASH_DEBUG = os.getenv("DASH_DEBUG")

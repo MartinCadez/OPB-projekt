@@ -10,7 +10,7 @@ from werkzeug.security import check_password_hash
 
 from app import User, app
 from auth.authentication import is_admin
-from config import VERSION, cache
+from config import VERSION, DASH_PORT, DASH_HOST, cache
 
 logger = logging.getLogger("app." + __name__)
 
@@ -19,9 +19,6 @@ cache.init_app(app.server)
 
 GROUP_ICONS = {
     "MARKET DATA": html.I(className="fas fa-chart-area"),
-    # "ENERGY": html.I(className="fas fa-bolt"),
-    # "MODELS": html.I(className="bi bi-bar-chart-line-fill"),
-    # "OUTLOOK": html.I(className="bi bi-calendar"),
     # "TEMPLATE GROUP": html.I(className="bi bi-bar-chart-line-fill"),
 }
 
@@ -311,4 +308,4 @@ if __name__ == "__main__":
     #     x_prefix=1,  # URL prefix/subfolder
     # )
 
-    app.run(host="0.0.0.0", port=8052, debug=True)
+    app.run(host=DASH_HOST, port=DASH_PORT, debug=True)
