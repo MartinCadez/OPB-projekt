@@ -1,9 +1,8 @@
-import json
-
+from flask_login import UserMixin
 from config import engine
 from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy.sql import select
-from werkzeug.security import generate_password_hash
+from sqlalchemy import Table
+from werkzeug.security import generate_password_hash, check_password_hash
 
 db = SQLAlchemy()
 
@@ -24,70 +23,59 @@ class User(UserMixin, db.Model):
         return check_password_hash(self.password, password)
 
 
+userTable = Table("app_user", User.metadata, autoload_with=engine)
+
+
 def create_user_table():
     User.metadata.create_all(engine)
-
-
-def edit_user():
-    # Dostopi?
-    pass
-
-
-def send_msg_user_created():
-    # Dostopi, geslo
-    pass
-
-
-def send_msg_user_edited():
-    # Dostopi, ponastavitev gesla
-    pass
 
 
 def add_user(username, password, email, admin):
     hashed_password = generate_password_hash(password, method="sha256")
 
-    insert_stmt = userTable.insert().values(
-        username=username, email=email, password=hashed_password
-    )
+    new_user = User(username=username, email=email, password=hashed_password)
+
+    from app import server
+
+    with server.app_context():
+        db.session.add(new_user)
+        db.session.commit()
+
+    import yaml
 
     access_apps = ["all"] if admin else []
 
-    with open("authentication/access.json", "r+") as f:
-        data = json.load(f)
-        data[username] = {"admin": str(int(admin)), "access_apps": access_apps}
-        f.seek(0)
-        json.dump(data, f, indent=4)
+    access_file_path = "src/app/auth/authentication/access.yaml"
+    try:
+        with open(access_file_path, "r") as f:
+            data = yaml.safe_load(f) or {}
+    except FileNotFoundError:
+        data = {}
 
-    conn = engine.connect()
-    conn.execute(insert_stmt)
-    conn.close()
+    data[username] = {"admin": admin, "page_access": access_apps}
+
+    with open(access_file_path, "w") as f:
+        yaml.dump(data, f, default_flow_style=False)
 
 
 def update_password(username, password):
     hashed_password = generate_password_hash(password, method="sha256")
 
-    update = (
-        userTable.update()
-        .values(password=hashed_password)
-        .where(userTable.c.username == username)
-    )
+    from app import server
 
-    conn = engine.connect()
-    conn.execute(update)
-    conn.close()
+    with server.app_context():
+        user = User.query.filter_by(username=username).first()
+        if user:
+            user.password = hashed_password
+            db.session.commit()
 
 
 def show_users():
-    select_stmt = select([userTable.c.id, userTable.c.username, userTable.c.email])
+    from app import server
 
-    conn = engine.connect()
-    results = conn.execute(select_stmt)
-
-    users = []
-
-    for result in results:
-        users.append({"ID": result[0], "username": result[1], "email": result[2]})
-
-    conn.close()
-
-    return users
+    with server.app_context():
+        users = User.query.all()
+        return [
+            {"ID": user.user_id, "username": user.username, "email": user.email}
+            for user in users
+        ]

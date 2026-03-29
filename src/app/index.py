@@ -62,12 +62,7 @@ app.layout = html.Div(
                     html.A(
                         dbc.Row(
                             [
-                                dbc.Col(
-                                    html.Img(
-                                        src="./assets/dashboard_logo.png",
-                                        height="50px",
-                                    )
-                                ),
+                                dbc.Col(),
                             ],
                             align="center",
                             class_name="g-0",
@@ -191,6 +186,7 @@ def toggle_offcanvas(is_open, n1, *args):
 
 @app.callback(
     Output("url", "pathname"),
+    Output("login-error-message", "children"),
     [
         Input("login-loginButton", "n_clicks"),
         Input("login-usernameBox", "n_submit"),
@@ -199,17 +195,21 @@ def toggle_offcanvas(is_open, n1, *args):
     [State("login-usernameBox", "value"), State("login-passwordBox", "value")],
 )
 def sucess(n_clicks, username_submit, password_submit, username, password):
+    if not (n_clicks or username_submit or password_submit):
+        return dash.no_update, ""
+
+    if not username or not password:
+        return dash.no_update, "Enter both username and password"
+
     user = User.query.filter_by(username=username).first()
-    if user:
-        if check_password_hash(user.password, password):
-            login_user(user)
-            logger.info(f"User {username} login successful.")
-            return "/"
-        else:
-            logger.info(f"User {username} login failed!")
-            pass
+
+    if user and check_password_hash(user.password, password):
+        login_user(user)
+        logger.info(f"User {username} login successful.")
+        return "/", ""
     else:
-        pass
+        logger.info(f"User {username} login failed!")
+        return dash.no_update, "Invalid username or password"
 
 
 @app.callback(

@@ -4,7 +4,7 @@ import config
 
 import dash
 import dash_bootstrap_components as dbc
-from flask_login import LoginManager, UserMixin
+from flask_login import LoginManager
 from auth.user_manager import db, User
 
 
@@ -31,18 +31,14 @@ server.config.update(
     SQLALCHEMY_TRACK_MODIFICATIONS=False,
 )
 
-db.init_app(app)
+db.init_app(server)
 
-with app.app_context():
+with server.app_context():
     db.create_all()
 
 login_manager = LoginManager()
 login_manager.init_app(server)
 login_manager.login_view = "/login"
-
-
-class User(UserMixin, Base):
-    pass
 
 
 @login_manager.user_loader

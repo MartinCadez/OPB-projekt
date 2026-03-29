@@ -40,6 +40,10 @@ layout = dbc.Container(
                                     className="btn btn-primary btn-lg",
                                 ),
                                 html.Br(),
+                                html.Div(
+                                    id="login-error-message",
+                                    style={"color": "red", "margin-top": "10px"},
+                                ),
                             ],
                             className="form-group",
                         ),
