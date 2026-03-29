@@ -81,7 +81,7 @@ def authentication(app_name: str, auth: bool = False):
     def outer(func):
         @wraps(func)
         def inner(*args, **kwargs):
-            # if the page does not require authentication, just show it
+            # display pages, if no auth is needed
             if not auth:
                 return func(*args, **kwargs)
 
@@ -96,7 +96,7 @@ def authentication(app_name: str, auth: bool = False):
             if has_access or is_profile:
                 return func(*args, **kwargs)
 
-            # if logged in but no permission, show Access Denied
+            # display access denied if user is logged in but has no permission
             return print_access_denied_msg(is_guest=False)
 
         return inner

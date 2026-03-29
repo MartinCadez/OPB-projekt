@@ -20,7 +20,9 @@ app = dash.Dash(
     title="Dashboard",
 )
 
-app._favicon = (Path(__file__).parent / "assets" / "dashboard_icon.png").as_posix()
+app._favicon = (
+    Path(__file__).parent / "assets" / "img" / "dashboard_icon.png"
+).as_posix()
 
 server = app.server
 app.config.suppress_callback_exceptions = True

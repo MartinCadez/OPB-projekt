@@ -5,8 +5,26 @@ register_page(__name__, path="/", title="Dashboard - Home")
 
 carousel = dbc.Carousel(
     items=[
-        {"key": "1", "src": "./assets/prikaz_1.png", "header": "MARKET REVIEW"},
-        {"key": "2", "src": "./assets/prikaz_2.png", "header": "SHIPS DATA REVIEW"},
+        {
+            "key": "1",
+            "src": "./assets/img/home_slideshow_market_1.jpg",
+            "header": "MARKET REVIEW",
+        },
+        {
+            "key": "2",
+            "src": "./assets/img/home_slideshow_ships_1.jpg",
+            "header": "SHIPS REVIEW",
+        },
+        {
+            "key": "3",
+            "src": "./assets/img/home_slideshow_market_2.png",
+            "header": "MARKET REVIEW",
+        },
+        {
+            "key": "4",
+            "src": "./assets/img/home_slideshow_ships_2.jpg",
+            "header": "SHIPS REVIEW",
+        },
     ],
     controls=True,
     indicators=True,
@@ -92,7 +110,7 @@ layout = html.Div(
         )
     ],
     style={
-        "background-image": 'url("assets/background.png")',
+        "background-image": 'url("assets/img/background.png")',
         "background-size": "cover",
         "background-color": "#fcfcfc",
     },
