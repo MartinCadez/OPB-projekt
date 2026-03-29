@@ -21,9 +21,14 @@ services:
       dockerfile: Dockerfile
     container_name: dash_app
     environment:
-      DATABASE_URL: ${DATABASE_URL}
+      DB_USER: ${DB_USER}
+      DB_PASSWORD: ${DB_PASSWORD}
+      DB_NAME: ${DB_NAME}
+      DB_HOST: ${DB_HOST}
+      DB_CONTAINER_PORT: ${DB_CONTAINER_PORT}
       APP_ENV: ${APP_ENV}
-      DASH_DEBUG: ${DASH_DEBUG}
+      DASH_PORT: ${DASH_PORT}
+      DASH_HOST: ${DASH_HOST}
     ports:
       - "8050:8050"
     networks:
