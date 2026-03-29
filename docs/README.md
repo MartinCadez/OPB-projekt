@@ -27,42 +27,26 @@ and analysis._
   cp .env.example .env
   ```
 
-  2. 📦 Python Development Environment Setup
+  <!-- 2. 📦 Python Development Environment Setup -->
+  <!---->
+  <!-- ```bash -->
+  <!-- python -m venv .venv && -->
+  <!-- source .venv/bin/activate && -->
+  <!-- pip install uv && -->
+  <!-- uv pip install -r requirements.txt -->
+  <!-- ``` -->
+
+  2. 🐳 Deploy Docker Compose Services
 
   ```bash
-  python -m venv .venv &&
-  source .venv/bin/activate &&
-  pip install uv &&
-  uv pip install -r requirements.txt
-  ```
-
-  3. 🐳 Deploy Docker Compose Services
-
-  ```bash
-  docker compose up -d
+  docker compose up
   ```
 
 > [!NOTE]
 > Current configuration ([`docker-compose.yml`](./docker-compose.yml)) defines
-> a service which deploys PostgreSQL 17.5 database container with named volume.
+> a service which deploys PostgreSQL 18.5 database container with named volume.
 > This way we have persistent storage, which can be used
 > across container restarts.
-
-Entering database
-
-```bash
-docker compose exec db psql -U app_user -d dash_analytics
-```
-
-ukazi za amando:
-
-```bash
-docker ps -a  # kateri vsebniki so zivi
-```
-
-```bash
-docker compose exec db psql -U app_user -d dash_analytics
-```
 
 > [!TIP]
 > Before proceeding with any operations, ensure the Docker service is running
@@ -72,12 +56,12 @@ docker compose exec db psql -U app_user -d dash_analytics
 > docker ps --filter "name=postgres_db"
 > ```
 
-## 💨 Execution
-
-- 🚀 Run Dashboard
-  ```bash
-  python3 index.py
-  ```
+> [!NOTE]
+> The following command can be used to open an interactive psql session.
+>
+> ```bash
+> docker compose exec db psql -U app_user -d dash_analytics
+> ```
 
 ## 💡 Mentors
 
@@ -85,7 +69,3 @@ Project was developed under the guidance of:
 
 - doc. dr. Janoš Vidali
 - asist. Gasper Domen Romih
-
-```
-
-```
